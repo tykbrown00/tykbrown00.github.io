@@ -1,5 +1,5 @@
 # Site
-title:              Thug Shakers University 
+title:              Moon Template
 bio:                'Minimal, one column jekyll theme.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
@@ -26,7 +26,8 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   TyreseBrown
+disqus_shortname:   taylantatli
+
 # Social
 # if you don't have any of social below, comment the line.
 #google:
