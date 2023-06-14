@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="tykbrown00.github.io/"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="tykbrown00.github.io/">My name is Tyrese Brown and I recently have developed a passion for programming, specifically data science. While the journey has been difficult because I do not come from a traditonal coding background, the journey has been humbling and given me a  .</center>
 
 ## Features
 * Minimal, you can focus on your content
