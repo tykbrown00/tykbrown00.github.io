@@ -6,9 +6,9 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="tykbrown00.github.io/">My name is Tyrese Brown and I recently have developed a passion for programming, specifically data science. While the journey has been difficult because I do not come from a traditonal coding background, the journey has been humbling and given me a  .</center>
+<center><a href="tykbrown00.github.io/"> My name is Tyrese Brown and I recently have developed a passion for programming, specifically data science. While the journey has been difficult because I do not come from a traditonal coding background, the process has been humbling and given me an appreciation for the field of study. Here I hope to blend data science with my other passion, fitness, sometime in the near future. Any criticisms about my projects or what I can do to make my site more appealing are more than appreciated.  </center>
 
-## Features
+## About Me 
 * Minimal, you can focus on your content
 * Responsive
 * Disqus integration
@@ -20,18 +20,7 @@ comments: false
 * Simple navigation menu
 * MathJax support
 
-## Preview
-
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    <img src = "C:\Users\tkb20\OneDrive\Desktop\Pictures I like\Graduated UMD.png" length = 75% width = 50%>
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](tykbrown00.github.io/) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+{% include gallery images=images caption="Picture of me graduating from the University of Maryland" cols=2 %}
